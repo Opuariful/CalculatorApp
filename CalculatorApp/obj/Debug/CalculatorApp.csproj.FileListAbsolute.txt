@@ -1,0 +1,17 @@
+D:\Moshiur_OOP_49\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe.config
+D:\Moshiur_OOP_49\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe
+D:\Moshiur_OOP_49\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.pdb
+D:\Moshiur_OOP_49\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.CalculatorUI.resources
+D:\Moshiur_OOP_49\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.Properties.Resources.resources
+D:\Moshiur_OOP_49\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.GenerateResource.Cache
+D:\Moshiur_OOP_49\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.exe
+D:\Moshiur_OOP_49\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.pdb
+C:\Users\Opu\Desktop\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe.config
+C:\Users\Opu\Desktop\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.exe
+C:\Users\Opu\Desktop\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.pdb
+C:\Users\Opu\Desktop\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe
+C:\Users\Opu\Desktop\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.pdb
+C:\Users\Opu\Desktop\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csprojResolveAssemblyReference.cache
+C:\Users\Opu\Desktop\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.CalculatorUI.resources
+C:\Users\Opu\Desktop\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.Properties.Resources.resources
+C:\Users\Opu\Desktop\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.GenerateResource.Cache
